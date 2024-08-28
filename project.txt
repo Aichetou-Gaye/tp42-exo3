@@ -32,6 +32,8 @@ Exemple concret pour un projet de création d'un site web:
         Analyser les statistiques de fréquentation.
 
 Utilisez un outil de gestion de projet: Des outils comme Trello, Asana ou Monday.com peuvent vous aider à organiser vos tâches et à suivre l'avancement de votre projet.
+
 Soyez flexible: Les projets évoluent souvent. Soyez prêt à adapter votre plan en fonction des circonstances.
 Communiquez régulièrement: Maintenez une communication ouverte avec toutes les parties prenantes pour éviter les malentendus.
+
 Célébrez les réussites: Reconnaître les efforts de l'équipe motive et renforce la cohésion.

@@ -8,12 +8,30 @@
 
     Exécution des tâches: Suivre le plan de projet et réaliser les tâches assignées.
     Suivi de l'avancement: Mettre à jour régulièrement le plan de projet et les rapports de suivi.
-    Gestion des risques: Mettre en œuvre les plans d'action en cas de survenance de risques.
     Communication: Maintenir une communication régulière avec toutes les parties prenantes.
 
 3. Phase de clôture:
 
-    Livraison du projet: Présenter les résultats du projet aux parties prenantes.
-    Évaluation du projet: Analyser les performances du projet par rapport aux objectifs.
     Archivage: Conserver la documentation du projet pour référence future.
 
+Exemple concret pour un projet de création d'un site web:
+
+    Phase de planification:
+        Définir le contenu du site, les fonctionnalités souhaitées et le public cible.
+        Choisir une plateforme de développement et un hébergeur.
+        Créer un calendrier de développement avec des jalons clés (conception, développement, tests, lancement).
+        Établir un budget.
+    Phase de réalisation:
+        Concevoir la maquette du site.
+        Développer les pages web.
+        Intégrer les fonctionnalités (formulaires, e-commerce, etc.).
+        Tester le site en conditions réelles.
+    Phase de clôture:
+        Mettre en ligne le site.
+        Former les utilisateurs à l'utilisation du site.
+        Analyser les statistiques de fréquentation.
+
+Utilisez un outil de gestion de projet: Des outils comme Trello, Asana ou Monday.com peuvent vous aider à organiser vos tâches et à suivre l'avancement de votre projet.
+Soyez flexible: Les projets évoluent souvent. Soyez prêt à adapter votre plan en fonction des circonstances.
+Communiquez régulièrement: Maintenez une communication ouverte avec toutes les parties prenantes pour éviter les malentendus.
+Célébrez les réussites: Reconnaître les efforts de l'équipe motive et renforce la cohésion.
